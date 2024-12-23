@@ -11,7 +11,7 @@ fusionauth-client==1.31.0
 greenlet==1.1.2
 idna==3.3
 itsdangerous==2.0.1
-Jinja2==3.0.2
+Jinja2==3.1.5
 MarkupSafe==2.0.1
 pkce==1.0.3
 pytz==2021.3
